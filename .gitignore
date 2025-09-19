@@ -7,3 +7,7 @@ alo
 # minh muon bo qua file abc.xyz nhung van giu myfile.xyz
 # se chi bo qua cac file .xyz trong git repo
 /*.xyz
+# bo qua file abc.txt trong sendcond_folder
+#ubuntu thi su dung / la path se[arator
+# windows thi su dung // hoac \
+sendcond_folder/abc.txt
