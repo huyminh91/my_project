@@ -10,4 +10,4 @@ alo
 # bo qua file abc.txt trong sendcond_folder
 #ubuntu thi su dung / la path se[arator
 # windows thi su dung // hoac \
-sendcond_folder/abc.txt
+second_folder/abc.txt
